@@ -1,0 +1,6 @@
+URL:http://www.technewsworld.com/story/84335.html
+TITLE:Google's Jigsaw Launches Troll-Thwarting API | Social Networking | TechNewsWorld
+META-KEYWORDS:Google,social media
+DATE:Feb 27, 2017 4:03 PM PT
+DOC ID:350
+CONTENT:A new tool is available to check the persistent harassment of online trolls. Google's Jigsaw think tank last week launched Perspective, an early stage technology that uses machine learning to help neutralize trolls.Perspective reviews comments and scores them based on their similarity to comments people have labeled as toxic, or that are likely to result in someone leaving a conversation.Publishers can select what they want to do with the information Perspective provides to them. Their options include the following:Forty-seven percent of 3,000 Americans aged 15 or older reported experiencing online harassment or abuse, according to a survey Data & Society conducted last year. More 70 percent said they had witnessed online harassment or abuse.Perspective got its training through an examination of hundreds of thousands of comments labeled by human reviewers who were asked to rate online comments on a scale from "very toxic" to "very healthy."Like all machine learning applications, Perspective improves as it's used. A number of partners have signed on to work with Jigsaw in this endeavor:
